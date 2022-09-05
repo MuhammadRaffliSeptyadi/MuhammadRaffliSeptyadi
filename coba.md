@@ -1,1 +1,1 @@
-mencoba aja dua kali
+mencoba aja dua kali  merge merge
