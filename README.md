@@ -11,7 +11,7 @@
 ## 💬 Connect with me
 <p align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/-rafflisept263@@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafflisept263@gmail.com)](mailto:rafflisept263@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rafflisept263@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafflisept263@gmail.com)](mailto:rafflisept263@gmail.com)
 
 <h2>⚡️ Facts about me </h2>
 
