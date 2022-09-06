@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=Takwaokeda.Takwaokeda)
+
 
 <p align="center">
 <img width="50%" height="auto" src="https://kotjienkterbang.files.wordpress.com/2017/03/5cm-per-second.gif?w=829" height="100px"/></a>
@@ -12,7 +12,7 @@
 ## 💬 Connect with me
 <p align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/-takwaokeda228@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafflisept263@gmail.com)](mailto:rafflisept263@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rafflisept263@@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafflisept263@gmail.com)](mailto:rafflisept263@gmail.com)
 
 <h2>⚡️ Facts about me </h2>
 
