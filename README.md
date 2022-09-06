@@ -1,16 +1,26 @@
-### Hi there 👋
+![](https://visitor-badge.glitch.me/badge?page_id=Takwaokeda.Takwaokeda)
 
-<!--
-**MuhammadRaffliSeptyadi/MuhammadRaffliSeptyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img width="50%" height="auto" src="https://kotjienkterbang.files.wordpress.com/2017/03/5cm-per-second.gif?w=829" height="100px"/></a>
+<h2>Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p> I'am currently a second year Geophysics student at Gadjah Mada University and currently trying to get into programming. Nice to meet you. So, wish me luck! ✨
+<p align="center">
+<br/>
+</a>
 
-Here are some ideas to get you started:
+## 💬 Connect with me
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
+[![Gmail Badge](https://img.shields.io/badge/-takwaokeda228@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafflisept263@gmail.com)](mailto:rafflisept263@gmail.com)
+
+<h2>⚡️ Facts about me </h2>
+
+- 👋 Hi, my name is Muhammad Raffli Septyadi, you can call me Raffli
+- 👀 I’m interested on Geophysics
+- 🌱 I’m currently learning Geology, Geophysics and computation
+- 🏡 I’m from Yogyakarta city
+- 🏫 I'm study in Gadjah Mada University Yogyakarta
+- 📫 How to reach me rafflisept263@gmail.com , you can chat or send email to my email
+
