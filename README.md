@@ -12,7 +12,6 @@
 ## 💬 Connect with me
 <p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/-takwaokeda228@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafflisept263@gmail.com)](mailto:rafflisept263@gmail.com)
 
 <h2>⚡️ Facts about me </h2>
