@@ -1,5 +1,4 @@
-
-
+![k](https://github.com/MuhammadRaffliSeptyadi/MuhammadRaffliSeptyadi/blob/9b70a16ac5b0020e00fb59911a3f50a21971acc7/41_Muhammad%20Raffli%20S.png) 
 <p align="center">
 <img width="50%" height="auto" src="https://kotjienkterbang.files.wordpress.com/2017/03/5cm-per-second.gif?w=829" height="100px"/></a>
 <h2>Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
